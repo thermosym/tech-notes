@@ -1,2 +1,1 @@
-# Java Performance Tunning
-- Java Performance Tuning Guide
+[Java Technical Notes](tech_java.md)
